@@ -1,0 +1,10 @@
+echo .env > .gitignore
+```
+
+
+```
+.env
+__pycache__/
+*.pyc
+.DS_Store
+*.egg-info/
